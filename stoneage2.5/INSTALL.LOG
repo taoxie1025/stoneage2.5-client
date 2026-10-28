@@ -1,0 +1,457 @@
+***  Installation Started 10/04/2006 17:51  ***
+Title: 石器时代2.5 Installation
+Source: C:\GAMES\SQQ\SETUP.EXE | 01-11-2002 | 10:42:54 | 534800983
+Made Dir: C:\games\stoneage2.5
+Made Dir: C:\games\stoneage2.5\data
+Made Dir: C:\games\stoneage2.5\data\download
+File Copy: C:\games\stoneage2.5\UNWISE.EXE | 12-05-2000 | 09:39:48 | | 149504 | 30fdd633
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\石器时代2.5
+RegDB Val: 石器时代2.5
+RegDB Name: DisplayName
+RegDB Root: 2
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\石器时代2.5
+RegDB Val: C:\GAMES\STONEA~1.5\UNWISE.EXE C:\GAMES\STONEA~1.5\INSTALL.LOG
+RegDB Name: UninstallString
+RegDB Root: 2
+File Copy: C:\games\stoneage2.5\sa_2900.exe | 01-10-2002 | 18:22:28 | 1.0.0.1 | 561152 | e2b947a4
+File Copy: C:\games\stoneage2.5\StoneAge.exe | 01-11-2002 | 10:04:42 | 1.0.0.5 | 225280 | e58961a0
+File Copy: C:\games\stoneage2.5\data\spradrn_4.bin | 01-08-2002 | 10:21:46 | | 10092 | 1e94632c
+File Copy: C:\games\stoneage2.5\data\spr_4.bin | 01-08-2002 | 10:21:46 | | 5588120 | 5ea2b8d
+File Copy: C:\games\stoneage2.5\data\soundaddr_3.txt | 12-27-2001 | 10:16:00 | | 691 | c2b59de
+File Copy: C:\games\stoneage2.5\data\sound_3.bin | 12-27-2001 | 10:16:00 | | 898978 | f82ea297
+File Copy: C:\games\stoneage2.5\data\sound_1.bin | 11-19-2001 | 19:57:28 | | 3695418 | aeb179a4
+File Copy: C:\games\stoneage2.5\data\battletxt_2.txt | 06-25-2001 | 16:18:56 | | 5844 | 3b9268bf
+Made Dir: C:\games\stoneage2.5\data\bgm
+File Copy: C:\games\stoneage2.5\data\bgm\sabgm_b0.wav | 07-31-1999 | 15:07:42 | | 2116016 | 3f2fd509
+File Copy: C:\games\stoneage2.5\data\bgm\sabgm_b1.wav | 09-18-1999 | 17:55:24 | | 2609812 | 25174b73
+File Copy: C:\games\stoneage2.5\data\bgm\sabgm_d0.wav | 08-02-1999 | 12:01:18 | | 3599256 | 6a4607ca
+File Copy: C:\games\stoneage2.5\data\bgm\sabgm_d1.wav | 09-18-1999 | 17:28:14 | | 3024432 | dec42c62
+File Copy: C:\games\stoneage2.5\data\bgm\sabgm_d2.wav | 09-18-1999 | 17:31:10 | | 3763916 | 1dbdec91
+File Copy: C:\games\stoneage2.5\data\bgm\sabgm_f0.wav | 08-04-1999 | 13:20:06 | | 5014108 | cf166e0b
+File Copy: C:\games\stoneage2.5\data\bgm\sabgm_f1.wav | 09-18-1999 | 17:23:54 | | 3227978 | 3cb6b364
+File Copy: C:\games\stoneage2.5\data\bgm\sabgm_s0.wav | 06-22-1999 | 13:14:22 | | 346812 | 9ed689aa
+File Copy: C:\games\stoneage2.5\data\bgm\sabgm_s1.wav | 09-18-1999 | 17:04:02 | | 1285762 | 8e775112
+File Copy: C:\games\stoneage2.5\data\bgm\sabgm_t0.wav | 07-30-1999 | 15:11:58 | | 3136338 | b0d90545
+File Copy: C:\games\stoneage2.5\data\bgm\sabgm_t1.wav | 08-09-1999 | 14:11:04 | | 5931756 | cc7490d7
+Made Dir: C:\games\stoneage2.5\data\pal
+File Copy: C:\games\stoneage2.5\data\pal\Palet_0.sap | 04-01-2000 | 10:45:12 | | 708 | d33b5d24
+File Copy: C:\games\stoneage2.5\data\pal\Palet_1.sap | 09-17-1999 | 21:19:06 | | 708 | dacb3fc9
+File Copy: C:\games\stoneage2.5\data\pal\Palet_10.sap | 09-17-1999 | 21:20:14 | | 708 | 7618027
+File Copy: C:\games\stoneage2.5\data\pal\Palet_11.sap | 09-17-1999 | 21:20:18 | | 708 | 86340331
+File Copy: C:\games\stoneage2.5\data\pal\Palet_12.sap | 09-17-1999 | 21:20:24 | | 708 | a1208e81
+File Copy: C:\games\stoneage2.5\data\pal\Palet_13.sap | 09-17-1999 | 21:20:30 | | 708 | 4e650ea9
+File Copy: C:\games\stoneage2.5\data\pal\Palet_14.sap | 09-17-1999 | 21:20:36 | | 708 | abb8e02
+File Copy: C:\games\stoneage2.5\data\pal\Palet_15.sap | 09-17-1999 | 21:20:44 | | 708 | 56c20b34
+File Copy: C:\games\stoneage2.5\data\pal\Palet_2.sap | 09-17-1999 | 21:32:50 | | 708 | 74186fbf
+File Copy: C:\games\stoneage2.5\data\pal\Palet_3.sap | 09-17-1999 | 21:32:56 | | 708 | 3bea7e9d
+File Copy: C:\games\stoneage2.5\data\pal\Palet_4.sap | 09-17-1999 | 21:19:34 | | 708 | f10a819f
+File Copy: C:\games\stoneage2.5\data\pal\Palet_5.sap | 09-17-1999 | 21:19:40 | | 708 | 84a43d06
+File Copy: C:\games\stoneage2.5\data\pal\Palet_6.sap | 09-17-1999 | 21:19:46 | | 708 | 2210c922
+File Copy: C:\games\stoneage2.5\data\pal\Palet_7.sap | 09-17-1999 | 21:19:52 | | 708 | 72be3b33
+File Copy: C:\games\stoneage2.5\data\pal\Palet_8.sap | 09-17-1999 | 21:19:58 | | 708 | 986104a6
+File Copy: C:\games\stoneage2.5\data\pal\Palet_9.sap | 09-17-1999 | 21:20:06 | | 708 | d994702c
+Made Dir: C:\games\stoneage2.5\data\se
+File Copy: C:\games\stoneage2.5\data\se\saam_01.wav | 12-27-2001 | 10:16:00 | | 27180 | ad69bfa7
+File Copy: C:\games\stoneage2.5\data\se\sad_01.wav | 12-09-1998 | 18:50:04 | | 3020 | 31ae304f
+File Copy: C:\games\stoneage2.5\data\se\sad_02.wav | 12-09-1998 | 18:50:40 | | 2968 | 35ad6a83
+File Copy: C:\games\stoneage2.5\data\se\sad_03.wav | 12-09-1998 | 18:51:06 | | 2038 | 83c5652
+File Copy: C:\games\stoneage2.5\data\se\sad_04.wav | 12-09-1998 | 18:52:16 | | 5144 | aed271d0
+File Copy: C:\games\stoneage2.5\data\se\sad_05.wav | 12-09-1998 | 18:55:00 | | 4818 | eb5582c1
+File Copy: C:\games\stoneage2.5\data\se\sae_01.wav | 12-09-1998 | 18:56:32 | | 7760 | d62da86a
+File Copy: C:\games\stoneage2.5\data\se\sae_02.wav | 12-09-1998 | 19:01:14 | | 6752 | 56b2e758
+File Copy: C:\games\stoneage2.5\data\se\sae_03.wav | 12-09-1998 | 19:02:06 | | 10964 | 955afd54
+File Copy: C:\games\stoneage2.5\data\se\sae_04.wav | 12-09-1998 | 19:03:08 | | 9110 | cded3a3
+File Copy: C:\games\stoneage2.5\data\se\sam_22.wav | 12-09-1998 | 19:58:50 | | 74558 | 77e1cd14
+File Copy: C:\games\stoneage2.5\data\se\sam_23.wav | 12-09-1998 | 20:00:56 | | 11452 | 9d602785
+File Copy: C:\games\stoneage2.5\data\se\sae_05.wav | 12-09-1998 | 19:04:00 | | 11056 | b3dcbec2
+File Copy: C:\games\stoneage2.5\data\se\sam_18.wav | 12-09-1998 | 19:55:32 | | 18892 | c733d558
+File Copy: C:\games\stoneage2.5\data\se\sam_19.wav | 12-09-1998 | 19:56:24 | | 13552 | 44704a5c
+File Copy: C:\games\stoneage2.5\data\se\sae_06.wav | 12-09-1998 | 19:04:42 | | 7164 | 5f8322ce
+File Copy: C:\games\stoneage2.5\data\se\sam_20.wav | 12-09-1998 | 19:57:04 | | 21522 | 553f2ed1
+File Copy: C:\games\stoneage2.5\data\se\sam_21.wav | 12-09-1998 | 19:58:06 | | 23548 | a5590285
+File Copy: C:\games\stoneage2.5\data\se\sae_07.wav | 12-09-1998 | 19:06:10 | | 30896 | b75c468d
+File Copy: C:\games\stoneage2.5\data\se\sam_24.wav | 12-09-1998 | 19:59:36 | | 19248 | de87a046
+File Copy: C:\games\stoneage2.5\data\se\sap_01.wav | 12-09-1998 | 18:38:50 | | 1168 | 3f275991
+File Copy: C:\games\stoneage2.5\data\se\sae_08.wav | 12-09-1998 | 19:07:24 | | 14738 | c191a2b8
+File Copy: C:\games\stoneage2.5\data\se\sap_02.wav | 12-09-1998 | 18:39:54 | | 2670 | fb5a13cd
+File Copy: C:\games\stoneage2.5\data\se\sap_03.wav | 12-09-1998 | 18:40:52 | | 3296 | 36056e9
+File Copy: C:\games\stoneage2.5\data\se\sae_09.wav | 12-09-1998 | 19:08:18 | | 11192 | 4a30960b
+File Copy: C:\games\stoneage2.5\data\se\sap_04.wav | 12-09-1998 | 18:42:04 | | 1512 | 33030adc
+File Copy: C:\games\stoneage2.5\data\se\sap_05.wav | 12-09-1998 | 19:26:48 | | 5490 | 210c5b4f
+File Copy: C:\games\stoneage2.5\data\se\sae_10.wav | 12-09-1998 | 19:09:06 | | 13744 | 15b9a017
+File Copy: C:\games\stoneage2.5\data\se\sae_11.wav | 12-09-1998 | 19:09:58 | | 16652 | da9e8d8b
+File Copy: C:\games\stoneage2.5\data\se\sae_12.wav | 12-09-1998 | 19:15:04 | | 25086 | a79c0267
+File Copy: C:\games\stoneage2.5\data\se\sae_13.wav | 12-09-1998 | 19:17:06 | | 15536 | 82e1a3b5
+File Copy: C:\games\stoneage2.5\data\se\sae_14.wav | 12-09-1998 | 19:18:00 | | 27740 | cf9b3bc4
+File Copy: C:\games\stoneage2.5\data\se\sae_15.wav | 12-09-1998 | 19:18:56 | | 17776 | cfbbe9b6
+File Copy: C:\games\stoneage2.5\data\se\sae_16.wav | 06-21-1999 | 13:11:00 | | 4904 | 5e002feb
+File Copy: C:\games\stoneage2.5\data\se\sae_17.wav | 06-21-1999 | 13:11:20 | | 10384 | 5e96d3c1
+File Copy: C:\games\stoneage2.5\data\se\sae_18.wav | 12-09-1998 | 19:21:06 | | 7362 | 17238ab5
+File Copy: C:\games\stoneage2.5\data\se\sae_19.wav | 06-21-1999 | 13:53:20 | | 11626 | 6aa2b9f0
+File Copy: C:\games\stoneage2.5\data\se\sae_20.wav | 12-09-1998 | 19:30:00 | | 5616 | aecad73a
+File Copy: C:\games\stoneage2.5\data\se\sap_06.wav | 06-21-1999 | 13:55:50 | | 22832 | 72c6517e
+File Copy: C:\games\stoneage2.5\data\se\sap_07.wav | 06-21-1999 | 13:56:12 | | 81892 | b8e8be4b
+File Copy: C:\games\stoneage2.5\data\se\sae_21.wav | 12-09-1998 | 19:24:40 | | 7008 | f3e4394
+File Copy: C:\games\stoneage2.5\data\se\sap_14.wav | 01-25-1999 | 15:10:46 | | 5144 | f2d42f78
+File Copy: C:\games\stoneage2.5\data\se\sas_01.wav | 12-09-1998 | 22:03:14 | | 2974 | 3a75e699
+File Copy: C:\games\stoneage2.5\data\se\sae_22.wav | 12-09-1998 | 19:26:10 | | 6730 | e50ac29c
+File Copy: C:\games\stoneage2.5\data\se\sap_08.wav | 06-21-1999 | 13:56:00 | | 5086 | 8187b44b
+File Copy: C:\games\stoneage2.5\data\se\sap_09.wav | 06-21-1999 | 13:56:20 | | 5984 | caee9a17
+File Copy: C:\games\stoneage2.5\data\se\sae_23.wav | 03-14-1999 | 05:37:02 | | 14704 | 7528dac1
+File Copy: C:\games\stoneage2.5\data\se\sap_10.wav | 06-21-1999 | 13:56:44 | | 7142 | 355273f1
+File Copy: C:\games\stoneage2.5\data\se\sap_11.wav | 07-21-1999 | 15:47:28 | | 11524 | f6d1d07b
+File Copy: C:\games\stoneage2.5\data\se\sae_24.wav | 03-14-1999 | 05:37:10 | | 25370 | 566c5899
+File Copy: C:\games\stoneage2.5\data\se\sap_12.wav | 07-28-1999 | 18:17:56 | | 15854 | afe07652
+File Copy: C:\games\stoneage2.5\data\se\sap_13.wav | 08-03-1999 | 13:48:56 | | 12912 | 82272e8a
+File Copy: C:\games\stoneage2.5\data\se\sae_25.wav | 06-21-1999 | 13:53:56 | | 37492 | 85121307
+File Copy: C:\games\stoneage2.5\data\se\sas_02.wav | 06-21-1999 | 13:57:12 | | 11868 | 4c39e653
+File Copy: C:\games\stoneage2.5\data\se\sas_03.wav | 06-21-1999 | 13:57:00 | | 4004 | e7f0372b
+File Copy: C:\games\stoneage2.5\data\se\sae_26.wav | 06-21-1999 | 13:53:46 | | 3188 | 574a6deb
+File Copy: C:\games\stoneage2.5\data\se\sae_27.wav | 06-21-1999 | 13:53:36 | | 21754 | 3c4238c
+File Copy: C:\games\stoneage2.5\data\se\sae_28.wav | 06-21-1999 | 13:54:08 | | 9532 | 348a5bf7
+File Copy: C:\games\stoneage2.5\data\se\sae_29.wav | 06-21-1999 | 13:54:34 | | 4710 | 1566135b
+File Copy: C:\games\stoneage2.5\data\se\sae_30.wav | 06-21-1999 | 13:55:14 | | 10452 | 9c3ad32e
+File Copy: C:\games\stoneage2.5\data\se\sae_31.wav | 06-21-1999 | 13:54:58 | | 17308 | 1e3fe5e
+File Copy: C:\games\stoneage2.5\data\se\sae_32.wav | 06-21-1999 | 13:55:24 | | 10602 | e835df0a
+File Copy: C:\games\stoneage2.5\data\se\sak_01.wav | 08-23-1999 | 13:30:58 | | 158488 | e3000866
+File Copy: C:\games\stoneage2.5\data\se\sak_02.wav | 08-23-1999 | 13:31:30 | | 152112 | dfe3bd3b
+File Copy: C:\games\stoneage2.5\data\se\sak_03.wav | 12-09-1998 | 20:05:46 | | 16304 | cff653ff
+File Copy: C:\games\stoneage2.5\data\se\sak_04.wav | 08-23-1999 | 13:38:40 | | 26756 | 83c0968f
+File Copy: C:\games\stoneage2.5\data\se\sas_04.wav | 06-21-1999 | 13:56:52 | | 6410 | a6c00230
+File Copy: C:\games\stoneage2.5\data\se\sas_05.wav | 06-21-1999 | 13:57:22 | | 12572 | 3e8f600a
+File Copy: C:\games\stoneage2.5\data\se\sak_05.wav | 08-23-1999 | 09:20:46 | | 14130 | c5c8fddc
+File Copy: C:\games\stoneage2.5\data\se\sas_06.wav | 12-09-1998 | 22:05:58 | | 38128 | 204c2c68
+File Copy: C:\games\stoneage2.5\data\se\sas_07.wav | 12-09-1998 | 22:04:58 | | 32624 | cf4c1781
+File Copy: C:\games\stoneage2.5\data\se\sak_06.wav | 12-09-1998 | 20:11:20 | | 284248 | 77d38205
+File Copy: C:\games\stoneage2.5\data\se\sas_08.wav | 12-09-1998 | 22:05:14 | | 28208 | 6ed223dd
+File Copy: C:\games\stoneage2.5\data\se\sas_09.wav | 12-09-1998 | 22:05:26 | | 19412 | c57617ae
+File Copy: C:\games\stoneage2.5\data\se\sak_07.wav | 07-13-1999 | 17:41:22 | | 35006 | 8f09fa60
+File Copy: C:\games\stoneage2.5\data\se\sas_21.wav | 06-21-1999 | 13:59:18 | | 4028 | da052ed5
+File Copy: C:\games\stoneage2.5\data\se\sas_17.wav | 06-21-1999 | 13:58:26 | | 4028 | da052ed5
+File Copy: C:\games\stoneage2.5\data\se\sak_08.wav | 01-26-1999 | 14:58:32 | | 561276 | 947a2041
+File Copy: C:\games\stoneage2.5\data\se\sas_10.wav | 12-09-1998 | 22:08:52 | | 50032 | 81ea7430
+File Copy: C:\games\stoneage2.5\data\se\sas_11.wav | 12-09-1998 | 22:16:52 | | 32496 | 6c3b03f1
+File Copy: C:\games\stoneage2.5\data\se\sak_09a.wav | 08-23-1999 | 09:22:58 | | 30276 | 2c4baa74
+File Copy: C:\games\stoneage2.5\data\se\sas_12.wav | 06-21-1999 | 13:57:48 | | 15036 | 87ed964
+File Copy: C:\games\stoneage2.5\data\se\sas_13.wav | 06-21-1999 | 13:58:16 | | 12732 | d17f130a
+File Copy: C:\games\stoneage2.5\data\se\sak_09b.wav | 12-10-1998 | 15:13:42 | | 198514 | 8e2c09a7
+File Copy: C:\games\stoneage2.5\data\se\sak_10.wav | 08-21-1999 | 20:44:42 | | 60080 | 2a27f081
+File Copy: C:\games\stoneage2.5\data\se\sak_11.wav | 08-21-1999 | 20:30:16 | | 19498 | ab3f84c8
+File Copy: C:\games\stoneage2.5\data\se\sak_12.wav | 12-09-1998 | 21:54:22 | | 19676 | 6edce500
+File Copy: C:\games\stoneage2.5\data\se\sak_13.wav | 12-09-1998 | 21:55:32 | | 53936 | b62d7f4d
+File Copy: C:\games\stoneage2.5\data\se\sak_14.wav | 12-09-1998 | 21:57:02 | | 32238 | 601ab802
+File Copy: C:\games\stoneage2.5\data\se\sak_15.wav | 12-09-1998 | 21:58:12 | | 15786 | 30c46c58
+File Copy: C:\games\stoneage2.5\data\se\sak_16.wav | 12-09-1998 | 21:59:46 | | 9440 | 7c22f7d1
+File Copy: C:\games\stoneage2.5\data\se\sak_17.wav | 12-09-1998 | 22:00:44 | | 67564 | b2578fed
+File Copy: C:\games\stoneage2.5\data\se\sak_91.wav | 12-09-1998 | 20:03:18 | | 18480 | 4f0d94f0
+File Copy: C:\games\stoneage2.5\data\se\sak_92.wav | 12-09-1998 | 20:04:46 | | 44504 | f19985fb
+File Copy: C:\games\stoneage2.5\data\se\sas_15.wav | 06-21-1999 | 13:58:06 | | 42044 | 4205f4d0
+File Copy: C:\games\stoneage2.5\data\se\sas_16.wav | 06-21-1999 | 13:57:56 | | 37182 | 6e400a25
+File Copy: C:\games\stoneage2.5\data\se\sak_98.wav | 12-09-1998 | 20:56:28 | | 75950 | e4be6930
+File Copy: C:\games\stoneage2.5\data\se\sas_18.wav | 06-21-1999 | 13:58:50 | | 22428 | addb6e5b
+File Copy: C:\games\stoneage2.5\data\se\sas_19.wav | 06-21-1999 | 13:59:08 | | 7708 | 8f3ce150
+File Copy: C:\games\stoneage2.5\data\se\sam_01.wav | 12-09-1998 | 19:39:24 | | 21690 | 1f427c72
+File Copy: C:\games\stoneage2.5\data\se\sas_20.wav | 06-21-1999 | 13:58:58 | | 3938 | e233bb0b
+File Copy: C:\games\stoneage2.5\data\se\saam_02.wav | 12-27-2001 | 10:16:00 | | 11760 | e7b62819
+File Copy: C:\games\stoneage2.5\data\se\sam_02.wav | 12-09-1998 | 19:40:10 | | 27440 | 77b0b7aa
+File Copy: C:\games\stoneage2.5\data\se\saam_03.wav | 12-27-2001 | 10:16:00 | | 20136 | 1f039b26
+File Copy: C:\games\stoneage2.5\data\se\saam_04.wav | 12-27-2001 | 10:16:00 | | 37736 | cdad015c
+File Copy: C:\games\stoneage2.5\data\se\sam_03.wav | 12-09-1998 | 19:40:52 | | 43632 | 3f886b9c
+File Copy: C:\games\stoneage2.5\data\se\saam_05.wav | 12-27-2001 | 10:16:00 | | 33610 | 9082388a
+File Copy: C:\games\stoneage2.5\data\se\saam_06.wav | 12-27-2001 | 10:16:00 | | 21764 | fa47b41c
+File Copy: C:\games\stoneage2.5\data\se\sam_04.wav | 12-09-1998 | 19:41:50 | | 8646 | cab4e530
+File Copy: C:\games\stoneage2.5\data\se\sam_05.wav | 12-09-1998 | 19:42:34 | | 11440 | ec021c3d
+File Copy: C:\games\stoneage2.5\data\se\sam_06.wav | 12-09-1998 | 19:43:08 | | 12496 | 25db0d99
+File Copy: C:\games\stoneage2.5\data\se\sam_07.wav | 12-09-1998 | 19:43:58 | | 19184 | 46357b95
+File Copy: C:\games\stoneage2.5\data\se\sam_08.wav | 12-09-1998 | 19:44:26 | | 18672 | 1161435a
+File Copy: C:\games\stoneage2.5\data\se\sam_09.wav | 12-09-1998 | 19:44:58 | | 19440 | 50998740
+File Copy: C:\games\stoneage2.5\data\se\sam_10.wav | 12-09-1998 | 19:50:22 | | 192626 | badfa2a1
+File Copy: C:\games\stoneage2.5\data\se\sam_11.wav | 12-09-1998 | 19:50:30 | | 192626 | 82f7012d
+File Copy: C:\games\stoneage2.5\data\se\sam_12.wav | 12-09-1998 | 19:50:38 | | 192626 | 2fa61102
+File Copy: C:\games\stoneage2.5\data\se\sam_13.wav | 12-09-1998 | 19:51:14 | | 13520 | 646405d8
+File Copy: C:\games\stoneage2.5\data\se\sam_14.wav | 12-09-1998 | 19:51:42 | | 16464 | 3b8ccbd
+File Copy: C:\games\stoneage2.5\data\se\sam_15.wav | 12-09-1998 | 19:52:16 | | 24430 | 398ef58d
+File Copy: C:\games\stoneage2.5\data\se\saam_07.wav | 12-27-2001 | 10:16:00 | | 47916 | 31220eaa
+File Copy: C:\games\stoneage2.5\data\se\saam_08.wav | 12-27-2001 | 10:16:00 | | 35140 | 2f80fe83
+File Copy: C:\games\stoneage2.5\data\se\sam_16.wav | 12-09-1998 | 19:53:54 | | 23152 | c7dd884d
+File Copy: C:\games\stoneage2.5\data\se\sam_17.wav | 12-09-1998 | 19:54:34 | | 15020 | 7e8e7d06
+File Copy: C:\games\stoneage2.5\data\se\saam_09.wav | 12-27-2001 | 10:16:00 | | 25580 | f0b07e41
+File Copy: C:\games\stoneage2.5\data\se\saam_10.wav | 12-27-2001 | 10:16:00 | | 27108 | 40b42618
+File Copy: C:\games\stoneage2.5\data\se\saam_11.wav | 12-27-2001 | 10:16:00 | | 38444 | 4580e280
+File Copy: C:\games\stoneage2.5\data\se\saam_12.wav | 12-27-2001 | 10:16:00 | | 23852 | 338aefcf
+File Copy: C:\games\stoneage2.5\data\se\saam_13.wav | 12-27-2001 | 10:16:00 | | 24172 | 16b1545a
+File Copy: C:\games\stoneage2.5\data\se\saam_14.wav | 12-27-2001 | 10:16:00 | | 35436 | 5ea599d3
+File Copy: C:\games\stoneage2.5\data\se\saam_15.wav | 12-27-2001 | 10:16:00 | | 5362 | af339ad6
+File Copy: C:\games\stoneage2.5\data\se\saam_16.wav | 12-27-2001 | 10:16:00 | | 5362 | af339ad6
+File Copy: C:\games\stoneage2.5\data\se\saam_17.wav | 12-27-2001 | 10:16:00 | | 33838 | e6968cac
+File Copy: C:\games\stoneage2.5\data\se\saam_18.wav | 12-27-2001 | 10:16:00 | | 35108 | 63c5de0
+File Copy: C:\games\stoneage2.5\data\se\saam_19.wav | 12-27-2001 | 10:16:00 | | 38508 | d8170115
+File Copy: C:\games\stoneage2.5\data\se\saam_20.wav | 12-27-2001 | 10:16:00 | | 56940 | 9277bab4
+File Copy: C:\games\stoneage2.5\data\se\saam_21.wav | 12-27-2001 | 10:16:00 | | 32492 | ca043b3c
+File Copy: C:\games\stoneage2.5\data\se\saam_22.wav | 12-27-2001 | 10:16:02 | | 31340 | f8ccc776
+File Copy: C:\games\stoneage2.5\data\se\saam_23.wav | 12-27-2001 | 10:16:02 | | 42092 | 3f9b0d8d
+File Copy: C:\games\stoneage2.5\data\se\saam_24.wav | 12-27-2001 | 10:16:02 | | 41452 | b54cf73e
+File Copy: C:\games\stoneage2.5\data\se\saam_25.wav | 12-27-2001 | 10:16:02 | | 42156 | 34026978
+File Copy: C:\games\stoneage2.5\data\se\saam_26.wav | 12-27-2001 | 10:16:02 | | 86818 | 27e1d20f
+File Copy: C:\games\stoneage2.5\data\se\saam_27.wav | 12-27-2001 | 10:16:02 | | 37676 | 1d2f67fd
+File Copy: C:\games\stoneage2.5\data\adrn_15.bin | 01-08-2002 | 17:07:14 | | 18765120 | 3113c408
+File Copy: C:\games\stoneage2.5\data\battle_2.bin | 06-25-2001 | 16:18:56 | | 187500 | c7411830
+Made Dir: C:\games\stoneage2.5\data\battleMap
+File Copy: C:\games\stoneage2.5\data\battleMap\battle140.sab | 09-18-1999 | 21:00:44 | | 804 | b9663521
+File Copy: C:\games\stoneage2.5\data\battleMap\battle00.sab | 09-18-1999 | 20:39:52 | | 804 | 69f961d8
+File Copy: C:\games\stoneage2.5\data\battleMap\battle141.sab | 09-18-1999 | 21:00:52 | | 804 | bc1e6ccb
+File Copy: C:\games\stoneage2.5\data\battleMap\battle01.sab | 09-18-1999 | 20:40:14 | | 804 | 84399c19
+File Copy: C:\games\stoneage2.5\data\battleMap\battle142.sab | 09-18-1999 | 21:00:58 | | 804 | d06afb79
+File Copy: C:\games\stoneage2.5\data\battleMap\battle02.sab | 09-18-1999 | 20:40:24 | | 804 | e59fa46e
+File Copy: C:\games\stoneage2.5\data\battleMap\battle143.sab | 09-18-1999 | 21:01:04 | | 804 | ad39013f
+File Copy: C:\games\stoneage2.5\data\battleMap\battle03.sab | 09-18-1999 | 20:40:36 | | 804 | b74023d2
+File Copy: C:\games\stoneage2.5\data\battleMap\battle144.sab | 09-18-1999 | 21:01:10 | | 804 | 48c4e290
+File Copy: C:\games\stoneage2.5\data\battleMap\battle04.sab | 09-18-1999 | 20:40:48 | | 804 | 6a04e7d9
+File Copy: C:\games\stoneage2.5\data\battleMap\battle146.sab | 09-18-1999 | 21:01:22 | | 804 | 1e06f86c
+File Copy: C:\games\stoneage2.5\data\battleMap\battle05.sab | 09-18-1999 | 20:40:54 | | 804 | 6e015816
+File Copy: C:\games\stoneage2.5\data\battleMap\battle145.sab | 09-18-1999 | 21:01:18 | | 804 | 1e06f86c
+File Copy: C:\games\stoneage2.5\data\battleMap\battle06.sab | 09-18-1999 | 20:41:02 | | 804 | afb858c4
+File Copy: C:\games\stoneage2.5\data\battleMap\battle147.sab | 09-18-1999 | 21:01:28 | | 804 | 3773a93c
+File Copy: C:\games\stoneage2.5\data\battleMap\battle07.sab | 09-18-1999 | 20:41:12 | | 804 | eeddc560
+File Copy: C:\games\stoneage2.5\data\battleMap\battle148.sab | 09-18-1999 | 21:01:36 | | 804 | 5f72faa
+File Copy: C:\games\stoneage2.5\data\battleMap\battle08.sab | 09-18-1999 | 20:41:18 | | 804 | 11029f2e
+File Copy: C:\games\stoneage2.5\data\battleMap\battle149.sab | 09-18-1999 | 21:01:42 | | 804 | a1bf476f
+File Copy: C:\games\stoneage2.5\data\battleMap\battle09.sab | 09-18-1999 | 20:41:26 | | 804 | 8eeb152f
+File Copy: C:\games\stoneage2.5\data\battleMap\battle150.sab | 09-18-1999 | 21:01:54 | | 804 | 24297211
+File Copy: C:\games\stoneage2.5\data\battleMap\battle10.sab | 09-18-1999 | 20:41:36 | | 804 | 2880eca5
+File Copy: C:\games\stoneage2.5\data\battleMap\battle100.sab | 09-18-1999 | 20:55:34 | | 804 | a7351720
+File Copy: C:\games\stoneage2.5\data\battleMap\battle101.sab | 09-18-1999 | 20:55:44 | | 804 | e3895732
+File Copy: C:\games\stoneage2.5\data\battleMap\battle102.sab | 09-18-1999 | 20:55:50 | | 804 | e1721803
+File Copy: C:\games\stoneage2.5\data\battleMap\battle103.sab | 09-18-1999 | 20:55:58 | | 804 | e247c62f
+File Copy: C:\games\stoneage2.5\data\battleMap\battle104.sab | 09-18-1999 | 20:56:08 | | 804 | 79a75873
+File Copy: C:\games\stoneage2.5\data\battleMap\battle105.sab | 09-18-1999 | 20:56:14 | | 804 | 60d24caf
+File Copy: C:\games\stoneage2.5\data\battleMap\battle106.sab | 09-18-1999 | 20:56:22 | | 804 | 79595620
+File Copy: C:\games\stoneage2.5\data\battleMap\battle107.sab | 09-18-1999 | 20:56:32 | | 804 | f8c440db
+File Copy: C:\games\stoneage2.5\data\battleMap\battle108.sab | 09-18-1999 | 20:56:40 | | 804 | 8ace6d46
+File Copy: C:\games\stoneage2.5\data\battleMap\battle109.sab | 09-18-1999 | 20:56:48 | | 804 | 84aa9da7
+File Copy: C:\games\stoneage2.5\data\battleMap\battle151.sab | 09-18-1999 | 21:02:02 | | 804 | b3e8aa0
+File Copy: C:\games\stoneage2.5\data\battleMap\battle11.sab | 09-18-1999 | 20:41:46 | | 804 | 512cc05b
+File Copy: C:\games\stoneage2.5\data\battleMap\battle110.sab | 09-18-1999 | 20:56:58 | | 804 | 6f0fdbcb
+File Copy: C:\games\stoneage2.5\data\battleMap\battle111.sab | 09-18-1999 | 20:57:06 | | 804 | c84707b1
+File Copy: C:\games\stoneage2.5\data\battleMap\battle112.sab | 09-18-1999 | 20:57:12 | | 804 | 34a6c6a0
+File Copy: C:\games\stoneage2.5\data\battleMap\battle113.sab | 09-18-1999 | 20:57:18 | | 804 | b0b424b
+File Copy: C:\games\stoneage2.5\data\battleMap\battle114.sab | 09-18-1999 | 20:57:24 | | 804 | 9be1aad5
+File Copy: C:\games\stoneage2.5\data\battleMap\battle115.sab | 09-18-1999 | 20:57:32 | | 804 | 448cb73e
+File Copy: C:\games\stoneage2.5\data\battleMap\battle116.sab | 09-18-1999 | 20:57:38 | | 804 | 34b69a87
+File Copy: C:\games\stoneage2.5\data\battleMap\battle117.sab | 09-18-1999 | 20:57:44 | | 804 | 6463f95d
+File Copy: C:\games\stoneage2.5\data\battleMap\battle118.sab | 09-18-1999 | 20:57:52 | | 804 | 2b13d305
+File Copy: C:\games\stoneage2.5\data\battleMap\battle119.sab | 09-18-1999 | 20:58:00 | | 804 | f5e5a47d
+File Copy: C:\games\stoneage2.5\data\battleMap\battle152.sab | 09-18-1999 | 21:02:10 | | 804 | 89747447
+File Copy: C:\games\stoneage2.5\data\battleMap\battle12.sab | 09-18-1999 | 20:41:56 | | 804 | 8ec1ff33
+File Copy: C:\games\stoneage2.5\data\battleMap\battle120.sab | 09-18-1999 | 20:58:08 | | 804 | 20875d85
+File Copy: C:\games\stoneage2.5\data\battleMap\battle121.sab | 09-18-1999 | 20:58:18 | | 804 | fab152b9
+File Copy: C:\games\stoneage2.5\data\battleMap\battle122.sab | 09-18-1999 | 20:58:26 | | 804 | 27d48384
+File Copy: C:\games\stoneage2.5\data\battleMap\battle123.sab | 09-18-1999 | 20:58:34 | | 804 | 62ae4159
+File Copy: C:\games\stoneage2.5\data\battleMap\battle124.sab | 09-18-1999 | 20:58:40 | | 804 | 33993f74
+File Copy: C:\games\stoneage2.5\data\battleMap\battle125.sab | 09-18-1999 | 20:58:46 | | 804 | 841dbd41
+File Copy: C:\games\stoneage2.5\data\battleMap\battle126.sab | 09-18-1999 | 20:58:52 | | 804 | 9930824
+File Copy: C:\games\stoneage2.5\data\battleMap\battle127.sab | 09-18-1999 | 20:58:58 | | 804 | d9f3c2ff
+File Copy: C:\games\stoneage2.5\data\battleMap\battle128.sab | 09-18-1999 | 20:59:06 | | 804 | 859d2e8
+File Copy: C:\games\stoneage2.5\data\battleMap\battle129.sab | 09-18-1999 | 20:59:12 | | 804 | 9fb209b6
+File Copy: C:\games\stoneage2.5\data\battleMap\battle153.sab | 09-18-1999 | 21:02:16 | | 804 | 319542db
+File Copy: C:\games\stoneage2.5\data\battleMap\battle13.sab | 09-18-1999 | 20:42:06 | | 804 | 97a232de
+File Copy: C:\games\stoneage2.5\data\battleMap\battle130.sab | 09-18-1999 | 20:59:20 | | 804 | 823e1eea
+File Copy: C:\games\stoneage2.5\data\battleMap\battle131.sab | 09-18-1999 | 20:59:34 | | 804 | 307b3aa3
+File Copy: C:\games\stoneage2.5\data\battleMap\battle132.sab | 09-18-1999 | 20:59:42 | | 804 | ffb3586a
+File Copy: C:\games\stoneage2.5\data\battleMap\battle133.sab | 09-18-1999 | 20:59:48 | | 804 | 284290fc
+File Copy: C:\games\stoneage2.5\data\battleMap\battle134.sab | 09-18-1999 | 20:59:56 | | 804 | caebaa77
+File Copy: C:\games\stoneage2.5\data\battleMap\battle135.sab | 09-18-1999 | 21:00:02 | | 804 | b3b9f923
+File Copy: C:\games\stoneage2.5\data\battleMap\battle136.sab | 09-18-1999 | 21:00:08 | | 804 | 7a97bc6d
+File Copy: C:\games\stoneage2.5\data\battleMap\battle137.sab | 09-18-1999 | 21:00:16 | | 804 | 50cfcd30
+File Copy: C:\games\stoneage2.5\data\battleMap\battle138.sab | 09-18-1999 | 21:00:22 | | 804 | 4e149704
+File Copy: C:\games\stoneage2.5\data\battleMap\battle139.sab | 09-18-1999 | 21:00:30 | | 804 | 18429273
+File Copy: C:\games\stoneage2.5\data\battleMap\battle200.sab | 09-18-1999 | 21:07:56 | | 804 | d84d22be
+File Copy: C:\games\stoneage2.5\data\battleMap\battle14.sab | 09-18-1999 | 20:42:14 | | 804 | 274e7759
+File Copy: C:\games\stoneage2.5\data\battleMap\battle15.sab | 09-18-1999 | 20:42:24 | | 804 | 9091688c
+File Copy: C:\games\stoneage2.5\data\battleMap\battle154.sab | 09-18-1999 | 21:02:22 | | 804 | 665950ed
+File Copy: C:\games\stoneage2.5\data\battleMap\battle63.sab | 09-18-1999 | 20:50:14 | | 804 | 52cfe070
+File Copy: C:\games\stoneage2.5\data\battleMap\battle155.sab | 09-18-1999 | 21:02:28 | | 804 | 27d36ebb
+File Copy: C:\games\stoneage2.5\data\battleMap\battle64.sab | 09-18-1999 | 20:50:24 | | 804 | 5f7e2506
+File Copy: C:\games\stoneage2.5\data\battleMap\battle156.sab | 09-18-1999 | 21:02:34 | | 804 | fa8d61cf
+File Copy: C:\games\stoneage2.5\data\battleMap\battle65.sab | 09-18-1999 | 20:50:30 | | 804 | 89175be9
+File Copy: C:\games\stoneage2.5\data\battleMap\battle157.sab | 09-18-1999 | 21:02:40 | | 804 | 693715c9
+File Copy: C:\games\stoneage2.5\data\battleMap\battle66.sab | 09-18-1999 | 20:50:38 | | 804 | 60a69abc
+File Copy: C:\games\stoneage2.5\data\battleMap\battle158.sab | 09-18-1999 | 21:02:46 | | 804 | 9864790d
+File Copy: C:\games\stoneage2.5\data\battleMap\battle67.sab | 09-18-1999 | 20:50:46 | | 804 | 1723cdd9
+File Copy: C:\games\stoneage2.5\data\battleMap\battle159.sab | 09-18-1999 | 21:02:52 | | 804 | 37f0792c
+File Copy: C:\games\stoneage2.5\data\battleMap\battle16.sab | 09-18-1999 | 20:42:38 | | 804 | 9e5a9118
+File Copy: C:\games\stoneage2.5\data\battleMap\battle68.sab | 09-18-1999 | 20:50:56 | | 804 | c27cb3be
+File Copy: C:\games\stoneage2.5\data\battleMap\battle160.sab | 09-18-1999 | 21:03:06 | | 804 | 1b8165ad
+File Copy: C:\games\stoneage2.5\data\battleMap\battle69.sab | 09-18-1999 | 20:51:08 | | 804 | 50a0916
+File Copy: C:\games\stoneage2.5\data\battleMap\battle161.sab | 09-18-1999 | 21:03:12 | | 804 | 6a001e7d
+File Copy: C:\games\stoneage2.5\data\battleMap\battle70.sab | 09-18-1999 | 20:51:26 | | 804 | 59ed8fa3
+File Copy: C:\games\stoneage2.5\data\battleMap\battle162.sab | 09-18-1999 | 21:03:20 | | 804 | 38bfdabe
+File Copy: C:\games\stoneage2.5\data\battleMap\battle163.sab | 09-18-1999 | 21:03:24 | | 804 | 6b3414f6
+File Copy: C:\games\stoneage2.5\data\battleMap\battle164.sab | 09-18-1999 | 21:03:32 | | 804 | 1160c3ee
+File Copy: C:\games\stoneage2.5\data\battleMap\battle165.sab | 09-18-1999 | 21:03:38 | | 804 | 99ad4707
+File Copy: C:\games\stoneage2.5\data\battleMap\battle166.sab | 09-18-1999 | 21:03:44 | | 804 | d9316711
+File Copy: C:\games\stoneage2.5\data\battleMap\battle167.sab | 09-18-1999 | 21:03:50 | | 804 | e61b4794
+File Copy: C:\games\stoneage2.5\data\battleMap\battle168.sab | 09-18-1999 | 21:03:56 | | 804 | 77eaf36b
+File Copy: C:\games\stoneage2.5\data\battleMap\battle71.sab | 09-18-1999 | 20:51:38 | | 804 | 3a690661
+File Copy: C:\games\stoneage2.5\data\battleMap\battle169.sab | 09-18-1999 | 21:04:02 | | 804 | b4dae7cd
+File Copy: C:\games\stoneage2.5\data\battleMap\battle17.sab | 09-18-1999 | 20:42:52 | | 804 | 8bab5f1d
+File Copy: C:\games\stoneage2.5\data\battleMap\battle72.sab | 09-18-1999 | 20:51:46 | | 804 | cc2d587d
+File Copy: C:\games\stoneage2.5\data\battleMap\battle170.sab | 09-18-1999 | 21:04:12 | | 804 | 27b07ae1
+File Copy: C:\games\stoneage2.5\data\battleMap\battle73.sab | 09-18-1999 | 20:51:52 | | 804 | c734a776
+File Copy: C:\games\stoneage2.5\data\battleMap\battle171.sab | 09-18-1999 | 21:04:20 | | 804 | e50660c4
+File Copy: C:\games\stoneage2.5\data\battleMap\battle74.sab | 09-18-1999 | 20:52:00 | | 804 | 2c448df6
+File Copy: C:\games\stoneage2.5\data\battleMap\battle172.sab | 09-18-1999 | 21:04:28 | | 804 | c71ae150
+File Copy: C:\games\stoneage2.5\data\battleMap\battle75.sab | 09-18-1999 | 20:52:06 | | 804 | 65ddee53
+File Copy: C:\games\stoneage2.5\data\battleMap\battle173.sab | 09-18-1999 | 21:04:36 | | 804 | f55bf204
+File Copy: C:\games\stoneage2.5\data\battleMap\battle76.sab | 09-18-1999 | 20:52:14 | | 804 | 5e487652
+File Copy: C:\games\stoneage2.5\data\battleMap\battle174.sab | 09-18-1999 | 21:04:42 | | 804 | b6af3a41
+File Copy: C:\games\stoneage2.5\data\battleMap\battle77.sab | 09-18-1999 | 20:52:20 | | 804 | 7fc4102e
+File Copy: C:\games\stoneage2.5\data\battleMap\battle175.sab | 09-18-1999 | 21:04:48 | | 804 | 5a447e6f
+File Copy: C:\games\stoneage2.5\data\battleMap\battle78.sab | 09-18-1999 | 20:52:26 | | 804 | 7db66a45
+File Copy: C:\games\stoneage2.5\data\battleMap\battle176.sab | 09-18-1999 | 21:04:56 | | 804 | 9727911b
+File Copy: C:\games\stoneage2.5\data\battleMap\battle79.sab | 09-18-1999 | 20:52:34 | | 804 | 637d4be0
+File Copy: C:\games\stoneage2.5\data\battleMap\battle177.sab | 09-18-1999 | 21:05:02 | | 804 | 9b039b60
+File Copy: C:\games\stoneage2.5\data\battleMap\battle178.sab | 09-18-1999 | 21:05:08 | | 804 | ed5b725
+File Copy: C:\games\stoneage2.5\data\battleMap\battle179.sab | 09-18-1999 | 21:05:14 | | 804 | 63cc530c
+File Copy: C:\games\stoneage2.5\data\battleMap\battle201.sab | 10-05-1999 | 11:06:02 | | 804 | 1c2ce9dc
+File Copy: C:\games\stoneage2.5\data\battleMap\battle18.sab | 09-18-1999 | 20:43:06 | | 804 | 94d8dd02
+File Copy: C:\games\stoneage2.5\data\battleMap\battle180.sab | 09-18-1999 | 21:05:24 | | 804 | 89a0ed8c
+File Copy: C:\games\stoneage2.5\data\battleMap\battle181.sab | 09-18-1999 | 21:05:34 | | 804 | c492d7b2
+File Copy: C:\games\stoneage2.5\data\battleMap\battle182.sab | 09-18-1999 | 21:05:44 | | 804 | 1baf0889
+File Copy: C:\games\stoneage2.5\data\battleMap\battle80.sab | 09-18-1999 | 20:52:44 | | 804 | 69a496f1
+File Copy: C:\games\stoneage2.5\data\battleMap\battle183.sab | 09-18-1999 | 21:05:52 | | 804 | f2f6e878
+File Copy: C:\games\stoneage2.5\data\battleMap\battle81.sab | 09-18-1999 | 20:52:52 | | 804 | 76a7770
+File Copy: C:\games\stoneage2.5\data\battleMap\battle184.sab | 09-18-1999 | 21:05:58 | | 804 | 45bcc2a2
+File Copy: C:\games\stoneage2.5\data\battleMap\battle82.sab | 09-18-1999 | 20:53:02 | | 804 | 23f0e73c
+File Copy: C:\games\stoneage2.5\data\battleMap\battle185.sab | 09-18-1999 | 21:06:06 | | 804 | 5a5725a1
+File Copy: C:\games\stoneage2.5\data\battleMap\battle83.sab | 09-18-1999 | 20:53:08 | | 804 | 34a33e4b
+File Copy: C:\games\stoneage2.5\data\battleMap\battle186.sab | 09-18-1999 | 21:06:12 | | 804 | 13b28566
+File Copy: C:\games\stoneage2.5\data\battleMap\battle84.sab | 09-18-1999 | 20:53:14 | | 804 | cf2a08e5
+File Copy: C:\games\stoneage2.5\data\battleMap\battle187.sab | 09-18-1999 | 21:06:18 | | 804 | 177097d1
+File Copy: C:\games\stoneage2.5\data\battleMap\battle85.sab | 09-18-1999 | 20:53:22 | | 804 | c61e3fe3
+File Copy: C:\games\stoneage2.5\data\battleMap\battle188.sab | 09-18-1999 | 21:06:26 | | 804 | 685f95bd
+File Copy: C:\games\stoneage2.5\data\battleMap\battle86.sab | 09-18-1999 | 20:53:32 | | 804 | 28154d1a
+File Copy: C:\games\stoneage2.5\data\battleMap\battle189.sab | 09-18-1999 | 21:06:30 | | 804 | d924bae8
+File Copy: C:\games\stoneage2.5\data\battleMap\battle19.sab | 09-18-1999 | 20:43:20 | | 804 | 241f27f0
+File Copy: C:\games\stoneage2.5\data\battleMap\battle87.sab | 09-18-1999 | 20:53:42 | | 804 | 7139ff08
+File Copy: C:\games\stoneage2.5\data\battleMap\battle190.sab | 09-18-1999 | 21:06:42 | | 804 | aa03d3a6
+File Copy: C:\games\stoneage2.5\data\battleMap\battle88.sab | 09-18-1999 | 20:53:52 | | 804 | dae5d568
+File Copy: C:\games\stoneage2.5\data\battleMap\battle191.sab | 09-18-1999 | 21:06:50 | | 804 | 2098ee8e
+File Copy: C:\games\stoneage2.5\data\battleMap\battle192.sab | 09-18-1999 | 21:06:58 | | 804 | 4d6868c0
+File Copy: C:\games\stoneage2.5\data\battleMap\battle193.sab | 09-18-1999 | 21:07:04 | | 804 | ba70e618
+File Copy: C:\games\stoneage2.5\data\battleMap\battle194.sab | 09-18-1999 | 21:07:08 | | 804 | 90f124b0
+File Copy: C:\games\stoneage2.5\data\battleMap\battle195.sab | 09-18-1999 | 21:07:14 | | 804 | fcfbebb9
+File Copy: C:\games\stoneage2.5\data\battleMap\battle196.sab | 09-18-1999 | 21:07:20 | | 804 | 2b627a8c
+File Copy: C:\games\stoneage2.5\data\battleMap\battle197.sab | 09-18-1999 | 21:07:26 | | 804 | aa301ec
+File Copy: C:\games\stoneage2.5\data\battleMap\battle89.sab | 09-18-1999 | 20:53:58 | | 804 | c7244be2
+File Copy: C:\games\stoneage2.5\data\battleMap\battle198.sab | 09-18-1999 | 21:07:34 | | 804 | ad12054f
+File Copy: C:\games\stoneage2.5\data\battleMap\battle90.sab | 09-18-1999 | 20:54:08 | | 804 | cf21bcf4
+File Copy: C:\games\stoneage2.5\data\battleMap\battle199.sab | 09-18-1999 | 21:07:42 | | 804 | a4b28e3e
+File Copy: C:\games\stoneage2.5\data\battleMap\battle20.sab | 09-18-1999 | 20:43:36 | | 804 | 51f4e92d
+File Copy: C:\games\stoneage2.5\data\battleMap\battle91.sab | 09-18-1999 | 20:54:14 | | 804 | 65cc8b51
+File Copy: C:\games\stoneage2.5\data\battleMap\battle202.sab | 10-05-1999 | 11:06:18 | | 804 | 2e71c589
+File Copy: C:\games\stoneage2.5\data\battleMap\battle92.sab | 09-18-1999 | 20:54:22 | | 804 | 17aef6e1
+File Copy: C:\games\stoneage2.5\data\battleMap\battle203.sab | 10-05-1999 | 11:06:30 | | 804 | 33322436
+File Copy: C:\games\stoneage2.5\data\battleMap\battle93.sab | 09-18-1999 | 20:54:28 | | 804 | e2d4dd6
+File Copy: C:\games\stoneage2.5\data\battleMap\battle204.sab | 10-05-1999 | 11:06:44 | | 804 | ea95618d
+File Copy: C:\games\stoneage2.5\data\battleMap\battle94.sab | 09-18-1999 | 20:54:36 | | 804 | 1c017231
+File Copy: C:\games\stoneage2.5\data\battleMap\battle205.sab | 10-05-1999 | 11:06:54 | | 804 | ee17fa3e
+File Copy: C:\games\stoneage2.5\data\battleMap\battle95.sab | 09-18-1999 | 20:54:42 | | 804 | 4fd50c42
+File Copy: C:\games\stoneage2.5\data\battleMap\battle206.sab | 10-05-1999 | 11:07:06 | | 804 | c8b2ad9a
+File Copy: C:\games\stoneage2.5\data\battleMap\battle207.sab | 10-05-1999 | 11:07:18 | | 804 | c3bfc52c
+File Copy: C:\games\stoneage2.5\data\battleMap\battle208.sab | 10-05-1999 | 11:07:34 | | 804 | 25ab36bf
+File Copy: C:\games\stoneage2.5\data\battleMap\battle209.sab | 10-05-1999 | 11:07:42 | | 804 | 89a376dc
+File Copy: C:\games\stoneage2.5\data\battleMap\battle96.sab | 09-18-1999 | 20:54:52 | | 804 | aed8a570
+File Copy: C:\games\stoneage2.5\data\battleMap\battle97.sab | 09-18-1999 | 20:55:04 | | 804 | 46e2e056
+File Copy: C:\games\stoneage2.5\data\battleMap\battle21.sab | 09-18-1999 | 20:43:46 | | 804 | 114e3e0d
+File Copy: C:\games\stoneage2.5\data\battleMap\battle210.sab | 10-05-1999 | 11:07:50 | | 804 | 6d6ac0ca
+File Copy: C:\games\stoneage2.5\data\battleMap\battle211.sab | 10-05-1999 | 11:07:58 | | 804 | aeec56ba
+File Copy: C:\games\stoneage2.5\data\battleMap\battle98.sab | 09-18-1999 | 20:55:12 | | 804 | 42183ec9
+File Copy: C:\games\stoneage2.5\data\battleMap\battle212.sab | 10-05-1999 | 11:08:04 | | 804 | bbbefc84
+File Copy: C:\games\stoneage2.5\data\battleMap\battle99.sab | 09-18-1999 | 20:55:20 | | 804 | f17d4fd2
+File Copy: C:\games\stoneage2.5\data\battleMap\battle213.sab | 10-05-1999 | 11:08:14 | | 804 | c19c901f
+File Copy: C:\games\stoneage2.5\data\battleMap\battle214.sab | 10-05-1999 | 11:08:24 | | 804 | 6a454f11
+File Copy: C:\games\stoneage2.5\data\battleMap\battle215.sab | 10-05-1999 | 11:08:30 | | 804 | 49ea2998
+File Copy: C:\games\stoneage2.5\data\battleMap\battle216.sab | 10-05-1999 | 11:08:40 | | 804 | 41456fe2
+File Copy: C:\games\stoneage2.5\data\battleMap\battle217.sab | 10-05-1999 | 11:08:46 | | 804 | 9a6ccd6a
+File Copy: C:\games\stoneage2.5\data\battleMap\battle218.sab | 08-25-2000 | 15:31:24 | | 804 | aadb8060
+File Copy: C:\games\stoneage2.5\data\battleMap\battle219.sab | 08-25-2000 | 15:31:30 | | 804 | 1e0fbf60
+File Copy: C:\games\stoneage2.5\data\battleMap\battle22.sab | 09-18-1999 | 20:43:56 | | 804 | e749f9f0
+File Copy: C:\games\stoneage2.5\data\battleMap\battle23.sab | 09-18-1999 | 20:44:04 | | 804 | ad6bcaad
+File Copy: C:\games\stoneage2.5\data\battleMap\battle24.sab | 09-18-1999 | 20:44:14 | | 804 | 2a3843e7
+File Copy: C:\games\stoneage2.5\data\battleMap\battle25.sab | 09-18-1999 | 20:44:24 | | 804 | 9755f385
+File Copy: C:\games\stoneage2.5\data\battleMap\battle26.sab | 09-18-1999 | 20:44:40 | | 804 | f0a47a30
+File Copy: C:\games\stoneage2.5\data\battleMap\battle27.sab | 09-18-1999 | 20:44:50 | | 804 | 279e1c45
+File Copy: C:\games\stoneage2.5\data\battleMap\battle28.sab | 09-18-1999 | 20:44:58 | | 804 | a5e72192
+File Copy: C:\games\stoneage2.5\data\battleMap\battle29.sab | 09-18-1999 | 20:45:08 | | 804 | ebd4bf7b
+File Copy: C:\games\stoneage2.5\data\battleMap\battle30.sab | 09-18-1999 | 20:45:22 | | 804 | 50036c52
+File Copy: C:\games\stoneage2.5\data\battleMap\battle31.sab | 09-18-1999 | 20:45:30 | | 804 | 6aa50684
+File Copy: C:\games\stoneage2.5\data\battleMap\battle32.sab | 09-18-1999 | 20:45:38 | | 804 | e9c2b119
+File Copy: C:\games\stoneage2.5\data\battleMap\battle33.sab | 09-18-1999 | 20:45:48 | | 804 | 45b5adcd
+File Copy: C:\games\stoneage2.5\data\battleMap\battle34.sab | 09-18-1999 | 20:45:56 | | 804 | e5611846
+File Copy: C:\games\stoneage2.5\data\battleMap\battle35.sab | 09-18-1999 | 20:46:04 | | 804 | 10e0531a
+File Copy: C:\games\stoneage2.5\data\battleMap\battle36.sab | 09-18-1999 | 20:46:12 | | 804 | c84c3d09
+File Copy: C:\games\stoneage2.5\data\battleMap\battle37.sab | 09-18-1999 | 20:46:20 | | 804 | 9d03b862
+File Copy: C:\games\stoneage2.5\data\battleMap\battle38.sab | 09-18-1999 | 20:46:32 | | 804 | 37df073a
+File Copy: C:\games\stoneage2.5\data\battleMap\battle39.sab | 09-18-1999 | 20:46:40 | | 804 | e552b5e3
+File Copy: C:\games\stoneage2.5\data\battleMap\battle40.sab | 09-18-1999 | 20:46:50 | | 804 | 1c88f9c1
+File Copy: C:\games\stoneage2.5\data\battleMap\battle41.sab | 09-18-1999 | 20:46:58 | | 804 | 7abc226e
+File Copy: C:\games\stoneage2.5\data\battleMap\battle42.sab | 09-18-1999 | 20:47:04 | | 804 | fffccd3b
+File Copy: C:\games\stoneage2.5\data\battleMap\battle43.sab | 09-18-1999 | 20:47:20 | | 804 | 17047abf
+File Copy: C:\games\stoneage2.5\data\battleMap\battle44.sab | 09-18-1999 | 20:47:34 | | 804 | ca5f4a36
+File Copy: C:\games\stoneage2.5\data\battleMap\battle45.sab | 09-18-1999 | 20:47:42 | | 804 | 801ffe28
+File Copy: C:\games\stoneage2.5\data\battleMap\battle46.sab | 09-18-1999 | 20:47:50 | | 804 | 837bd3e6
+File Copy: C:\games\stoneage2.5\data\battleMap\battle47.sab | 09-18-1999 | 20:47:58 | | 804 | 84727d4a
+File Copy: C:\games\stoneage2.5\data\battleMap\battle48.sab | 09-18-1999 | 20:48:06 | | 804 | bb7a3384
+File Copy: C:\games\stoneage2.5\data\battleMap\battle49.sab | 09-18-1999 | 20:48:16 | | 804 | 446a6548
+File Copy: C:\games\stoneage2.5\data\battleMap\battle50.sab | 09-18-1999 | 20:48:26 | | 804 | dcf82c27
+File Copy: C:\games\stoneage2.5\data\battleMap\battle51.sab | 09-18-1999 | 20:48:36 | | 804 | 87148320
+File Copy: C:\games\stoneage2.5\data\battleMap\battle52.sab | 09-18-1999 | 20:48:44 | | 804 | 14414974
+File Copy: C:\games\stoneage2.5\data\battleMap\battle53.sab | 09-18-1999 | 20:48:52 | | 804 | 9856abe7
+File Copy: C:\games\stoneage2.5\data\battleMap\battle54.sab | 09-18-1999 | 20:49:00 | | 804 | 93d13342
+File Copy: C:\games\stoneage2.5\data\battleMap\battle55.sab | 09-18-1999 | 20:49:08 | | 804 | e5f33328
+File Copy: C:\games\stoneage2.5\data\battleMap\battle56.sab | 09-18-1999 | 20:49:14 | | 804 | fd0e6d88
+File Copy: C:\games\stoneage2.5\data\battleMap\battle57.sab | 09-18-1999 | 20:49:22 | | 804 | 2fb5c032
+File Copy: C:\games\stoneage2.5\data\battleMap\battle58.sab | 09-18-1999 | 20:49:28 | | 804 | 35479d49
+File Copy: C:\games\stoneage2.5\data\battleMap\battle59.sab | 09-18-1999 | 20:49:36 | | 804 | fc169f7e
+File Copy: C:\games\stoneage2.5\data\battleMap\battle60.sab | 09-18-1999 | 20:49:50 | | 804 | 5ade4d97
+File Copy: C:\games\stoneage2.5\data\battleMap\battle61.sab | 09-18-1999 | 20:50:00 | | 804 | 9c39551
+File Copy: C:\games\stoneage2.5\data\battleMap\battle62.sab | 09-18-1999 | 20:50:08 | | 804 | d150da0
+File Copy: C:\games\stoneage2.5\data\real_15.bin | 01-08-2002 | 17:07:14 | | 763908374 | bd8bab8d
+File Copy: C:\games\stoneage2.5\Stoneage2.ico | 11-29-2000 | 08:41:46 | | 766 | cd5d73f9
+File Copy: C:\games\stoneage2.5\Startup.exe | 07-13-2001 | 22:48:04 | | 36864 | e2045bf6
+Shell Link: C:\WINDOWS\Start Menu\Programs\石器时代2.5\石器时代2.5.lnk
+Link Info: C:\games\stoneage2.5\StoneAge.exe |  | C:\GAMES\STONEA~1.5\Stoneage2.ico | 0 | 1 | 0 | 
+Shell Link: C:\WINDOWS\Desktop\石器时代2.5.lnk
+Link Info: C:\games\stoneage2.5\StoneAge.exe |  | C:\GAMES\STONEA~1.5\Stoneage2.ico | 0 | 1 | 0 | 
+RegDB Key: SOFTWARE\waei\石器时代2.0版\2.50.000
+RegDB Val: 
+RegDB Root: 2
+RegDB Key: SOFTWARE\waei\石器时代2.0版\2.50.000
+RegDB Val: C:\GAMES\STONEA~1.5\StoneAge.exe
+RegDB Name: Waei Stoneage Execution
+RegDB Root: 2
+RegDB Key: SOFTWARE\waei\石器时代2.0版\2.50.000
+RegDB Val: C:\GAMES\STONEA~1.5
+RegDB Name: Waei Stoneage Path
+RegDB Root: 2
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\石器时代2.5
+RegDB Val: http://www.waei.com.cn
+RegDB Name: HelpLink
+RegDB Root: 2
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\石器时代2.5
+RegDB Val: 北京华义联合软件开发有限公司
+RegDB Name: Publisher
+RegDB Root: 2
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\石器时代2.5
+RegDB Val: http://www.waei.com.cn
+RegDB Name: URLInfoAbout
+RegDB Root: 2
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\石器时代2.5
+RegDB Val: 北京华义联合软件开发有限公司
+RegDB Name: Comments
+RegDB Root: 2
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\石器时代2.5
+RegDB Val: C:\GAMES\STONEA~1.5\StoneAge.ico,-0
+RegDB Name: DisplayIcon
+RegDB Root: 2
